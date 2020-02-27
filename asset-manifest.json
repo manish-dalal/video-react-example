@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/video-react-example/static/css/main.1894eeb4.chunk.css",
+    "main.js": "/video-react-example/static/js/main.aa2c24c0.chunk.js",
+    "main.js.map": "/video-react-example/static/js/main.aa2c24c0.chunk.js.map",
+    "runtime-main.js": "/video-react-example/static/js/runtime-main.e90631f8.js",
+    "runtime-main.js.map": "/video-react-example/static/js/runtime-main.e90631f8.js.map",
+    "static/css/2.e5f752a8.chunk.css": "/video-react-example/static/css/2.e5f752a8.chunk.css",
+    "static/js/2.162e91ad.chunk.js": "/video-react-example/static/js/2.162e91ad.chunk.js",
+    "static/js/2.162e91ad.chunk.js.map": "/video-react-example/static/js/2.162e91ad.chunk.js.map",
+    "index.html": "/video-react-example/index.html",
+    "precache-manifest.f0928eed5cd5724992224a54dfbd51ca.js": "/video-react-example/precache-manifest.f0928eed5cd5724992224a54dfbd51ca.js",
+    "service-worker.js": "/video-react-example/service-worker.js",
+    "static/css/2.e5f752a8.chunk.css.map": "/video-react-example/static/css/2.e5f752a8.chunk.css.map",
+    "static/css/main.1894eeb4.chunk.css.map": "/video-react-example/static/css/main.1894eeb4.chunk.css.map",
+    "static/js/2.162e91ad.chunk.js.LICENSE.txt": "/video-react-example/static/js/2.162e91ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e90631f8.js",
+    "static/css/2.e5f752a8.chunk.css",
+    "static/js/2.162e91ad.chunk.js",
+    "static/css/main.1894eeb4.chunk.css",
+    "static/js/main.aa2c24c0.chunk.js"
+  ]
+}
